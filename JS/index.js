@@ -128,7 +128,7 @@ function displayBookmarks(x){
                 <td>${i+1}</td>
             <td>${x[i].name}</td>
             <td>
-                <a class="btn btn-visit" href="${x[i].url}" target="_blank">
+                <a class="btn btn-visit" href="https://${x[i].url}" target="_blank">
                     <i class="fa-solid fa-eye"></i>    
                     Visit
                 </a>
