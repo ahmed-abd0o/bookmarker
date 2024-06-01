@@ -65,6 +65,14 @@ h2.text-center{
 	--bs-btn-hover-bg: #8a9e23;
 	--bs-btn-hover-border-color: #6e8018;
 }
+.btn-update {
+	--bs-btn-color: #fff;
+	--bs-btn-bg: #4aa073;
+	--bs-btn-border-color: #4aa073;
+	--bs-btn-hover-color: #fff;
+	--bs-btn-hover-bg: #4aa073;
+	--bs-btn-hover-border-color:#4aa073;
+}
 
 .btn-delete {
 	--bs-btn-color: #fff;
